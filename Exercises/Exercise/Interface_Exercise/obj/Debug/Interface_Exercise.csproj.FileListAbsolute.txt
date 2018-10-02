@@ -1,0 +1,6 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe.config
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.pdb

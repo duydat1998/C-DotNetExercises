@@ -1,0 +1,10 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\obj\Debug\BookStore.MainForm.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\BookStore\BookStore\obj\Debug\BookStore.pdb

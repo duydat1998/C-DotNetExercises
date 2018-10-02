@@ -1,0 +1,6 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ProductLibrary\obj\Debug\ProductLibrary.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ProductLibrary\obj\Debug\ProductLibrary.csprojResolveAssemblyReference.cache

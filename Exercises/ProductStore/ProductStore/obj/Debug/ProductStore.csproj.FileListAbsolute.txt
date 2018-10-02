@@ -1,0 +1,14 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\bin\Debug\ProductStore.exe.config
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\bin\Debug\ProductStore.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\bin\Debug\ProductStore.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\bin\Debug\ProductLibrary.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\bin\Debug\ProductLibrary.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.frmMaintainProducts.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.frmProductDetails.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.Properties.Resources.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.GenerateResource.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.CopyComplete
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ProductStore\ProductStore\obj\Debug\ProductStore.pdb

@@ -1,0 +1,9 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\bin\Debug\netstandard2.0\Menu.deps.json
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\bin\Debug\netstandard2.0\Menu.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\bin\Debug\netstandard2.0\Menu.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\obj\Debug\netstandard2.0\Menu.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\obj\Debug\netstandard2.0\Menu.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\obj\Debug\netstandard2.0\Menu.AssemblyInfoInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\obj\Debug\netstandard2.0\Menu.AssemblyInfo.cs
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\obj\Debug\netstandard2.0\Menu.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\Menu\obj\Debug\netstandard2.0\Menu.pdb

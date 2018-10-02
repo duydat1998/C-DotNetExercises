@@ -1,0 +1,7 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Abstract_Class_Exercise\bin\Debug\Abstract_Class_Exercise.exe.config
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Abstract_Class_Exercise\bin\Debug\Abstract_Class_Exercise.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Abstract_Class_Exercise\bin\Debug\Abstract_Class_Exercise.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Abstract_Class_Exercise\obj\Debug\Abstract_Class_Exercise.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Abstract_Class_Exercise\obj\Debug\Abstract_Class_Exercise.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Abstract_Class_Exercise\obj\Debug\Abstract_Class_Exercise.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Abstract_Class_Exercise\obj\Debug\Abstract_Class_Exercise.pdb

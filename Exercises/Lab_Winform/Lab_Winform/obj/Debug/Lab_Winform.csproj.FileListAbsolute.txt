@@ -1,0 +1,10 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\bin\Debug\Lab_Winform.exe.config
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\bin\Debug\Lab_Winform.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\bin\Debug\Lab_Winform.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\obj\Debug\Lab_Winform.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\obj\Debug\Lab_Winform.frmMain.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\obj\Debug\Lab_Winform.Properties.Resources.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\obj\Debug\Lab_Winform.csproj.GenerateResource.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\obj\Debug\Lab_Winform.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\obj\Debug\Lab_Winform.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Lab_Winform\Lab_Winform\obj\Debug\Lab_Winform.pdb

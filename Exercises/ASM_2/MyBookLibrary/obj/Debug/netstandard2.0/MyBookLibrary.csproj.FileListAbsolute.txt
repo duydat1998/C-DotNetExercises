@@ -1,0 +1,9 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\bin\Debug\netstandard2.0\MyBookLibrary.deps.json
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\bin\Debug\netstandard2.0\MyBookLibrary.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\bin\Debug\netstandard2.0\MyBookLibrary.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.AssemblyInfoInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.AssemblyInfo.cs
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM_2\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.pdb

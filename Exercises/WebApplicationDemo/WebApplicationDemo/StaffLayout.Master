@@ -1,0 +1,102 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="StaffLayout.Master.cs" Inherits="WebApplicationDemo.Layout" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        a{color:white; text-decoration:none;}
+        a:hover{opacity: 0.5;}
+        #header{ margin-bottom: 10px;  padding: 0px 10px 0px 10px; 
+                 box-sizing:border-box; background-color:black;
+        }
+        #header_logo{width: 20%; float: left; height:100%; overflow:hidden;}
+        #header_title{width: 60%; float: left; font-size: 90px; text-align:center; padding-top: 30px;  height:76%; 
+color:white; font-family:Langdon; 
+        }
+        #footer{padding: 10px 20px 10px 20px;box-sizing:border-box; background-color:black; color:white; float:left; width:100%; margin-top: 10px;}
+        #footer_left{width: 30%; float:left; font-size:12px; margin-top: 10px; box-sizing: border-box; }
+         #footer_right{width: 70%; float:left; font-size: 12px; text-align:right; box-sizing: border-box; padding-right: 30px;}
+         #footer_right img{width: 30px; height: 30px;}
+        #header {
+            height: 152px;
+        }
+        #left_side{float:left; width:15%; height: 100px;}
+        #right_side{float:left; width:15%; height:100px;}
+        #content{float: left; width: 70%; height:auto; padding :10px 30px 10px 30px;}
+        #information{width:50%; float: left; font-family:Arial; font-size: 13px; box-sizing: border-box; height:140px; text-align: left; padding-left:350px;}
+        #footer ul {
+            list-style-type: none;
+            margin: 5px 10px 5px 10px;
+        }
+        #footer ul li{padding-top: 5px;}
+        #footer li img{width: 40px; height: 40px; margin-left: 8px;}
+        #contact{width:50%; float: left; font-family:Arial; font-size: 13px; box-sizing: border-box; height: 140px;}
+        
+        #user_info{width: 20%; float: left; height:100%; background-image: url("Image/film.jpeg"); background-size: 130% 130%;  color:white; padding-top: 50px; overflow:hidden; box-sizing:border-box;}
+        .button{background-color:black; border:1px solid white; color:white; padding:5px 20px 5px 20px; margin-top: 15px;}
+        .button:hover{ background-color: gainsboro; transition-duration: 0.3s; color: black;}
+        table{margin: 10px 20px 10px 20px; border: none; }
+        table tr{margin: 10px 10px 10px 10px;}
+        table tr td{margin: 10px 10px 10px 10px; width: 100px;}
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <div id="header">
+         <div id="header_logo">
+             <img src="Image/logo.png" style="height: 147px; width: 226px" />
+         </div>
+         <div id="header_title"><a href="#">Touch Cinema</a></div>
+         
+         <div id="user_info">
+
+             <asp:Label ID="lblUser" runat="server" Text="Hello"></asp:Label><br />
+             <asp:Button ID="btnLogout" OnClick="btnLogout_Click" runat="server" Text="Logout" CssClass="button"/>
+         </div>
+         </div>
+    <div id="left_side"></div>
+    <div id="content">
+            <asp:ContentPlaceHolder ID="ContentPage" runat="server">
+            </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <div id="right_side"></div>
+    
+    <div id="footer">
+        <div id="information">
+            Touch Cinema is a imaged cinema by: 
+            <ul>
+                <li>Nguyen Duy Dat</li>
+                <li>Le Minh Huy</li>
+                <li>Bui Trung Hieu</li>
+            </ul>
+            <br />
+            Hope that this cinema will be in reality soon.
+        </div>
+        <div id="contact">
+            Find Us By:
+            <ul>
+                <li>Phone: <a href="#">01627962333</a></li>
+                <li>Email: <a href="#">touchcinemasupport@gmail.com</a></li>
+                <li>
+                    <a href="#"><img src="Image/facebookLogo.png" /></a>
+                    <a href="#"><img src="Image/googlePlusLogo.png" /></a>
+                </li>
+            </ul>
+        </div>
+        <div id="footer_left">
+            ©2018 Touch Cinema All Rights Reserved.
+        </div>
+        <div id="footer_right">
+
+            Created with
+            <img src="Image/aspDotNetLogo.png" />
+            <img src="Image/CSharpLogo.png" />
+        </div>
+    </div>
+     </body>
+</html>

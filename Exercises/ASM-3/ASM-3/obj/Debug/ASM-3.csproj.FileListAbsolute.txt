@@ -1,0 +1,14 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\bin\Debug\ASM-3.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\bin\Debug\ASM-3.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\bin\Debug\ProductLibrary.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\bin\Debug\ProductLibrary.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM-3.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM_3.Form1.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM_3.Properties.Resources.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM-3.csproj.GenerateResource.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM-3.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM-3.csproj.CopyComplete
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM-3.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM-3.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\obj\Debug\ASM_3.FormPopup.resources
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\ASM-3\ASM-3\bin\Debug\ASM-3.exe.config

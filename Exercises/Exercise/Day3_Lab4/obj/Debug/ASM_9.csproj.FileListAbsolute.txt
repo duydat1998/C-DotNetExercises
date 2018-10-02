@@ -1,0 +1,7 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Day3_Lab4\bin\Debug\Day3_Lab4.exe.config
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Day3_Lab4\bin\Debug\Day3_Lab4.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Day3_Lab4\bin\Debug\Day3_Lab4.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Day3_Lab4\obj\Debug\ASM_9.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Day3_Lab4\obj\Debug\ASM_9.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Day3_Lab4\obj\Debug\Day3_Lab4.exe
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\Day3_Lab4\obj\Debug\Day3_Lab4.pdb

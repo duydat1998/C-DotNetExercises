@@ -1,0 +1,11 @@
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\bin\Debug\netcoreapp2.0\ASM_1.deps.json
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\bin\Debug\netcoreapp2.0\ASM_1.runtimeconfig.json
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\bin\Debug\netcoreapp2.0\ASM_1.runtimeconfig.dev.json
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\bin\Debug\netcoreapp2.0\ASM_1.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\bin\Debug\netcoreapp2.0\ASM_1.pdb
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\obj\Debug\netcoreapp2.0\ASM_1.csprojResolveAssemblyReference.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\obj\Debug\netcoreapp2.0\ASM_1.csproj.CoreCompileInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\obj\Debug\netcoreapp2.0\ASM_1.AssemblyInfoInputs.cache
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\obj\Debug\netcoreapp2.0\ASM_1.AssemblyInfo.cs
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\obj\Debug\netcoreapp2.0\ASM_1.dll
+D:\Studying\A_SUMMER2018-PRN292 C#\Exercises\Exercise\ASM_1\obj\Debug\netcoreapp2.0\ASM_1.pdb
